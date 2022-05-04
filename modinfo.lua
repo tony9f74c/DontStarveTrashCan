@@ -2,8 +2,8 @@
 
 name = "Trash Can"
 description = "Throw away unwanted items."
-author = "https://steamcommunity.com/profiles/76561198002269576"
-version = "1.2"
+author = "Tony" -- https://steamcommunity.com/profiles/76561198002269576
+version = "1.2b"
 forumthread = ""
 api_version = 10
 all_clients_require_mod = true
